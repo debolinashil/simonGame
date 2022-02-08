@@ -1,0 +1,45 @@
+body{
+    background-color: #8946A6;
+    color: #fff;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+}
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    color: #FFEDDB;
+    margin: 4rem auto;
+}
+
+button{
+    padding: 40px;
+    width: 200px;
+    height: 200px;
+    border: 10px solid #000;
+    border-radius: 3rem;
+    margin: 30px;
+}
+
+.game-button{
+    width: 50%;
+    display: inline-block;
+    margin: 3rem auto;
+}
+
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
